@@ -1,0 +1,5 @@
+Devops is a not a tool its a methodlology
+
+which manages both development and operations team with
+
+continous Integeration and continous deployment
