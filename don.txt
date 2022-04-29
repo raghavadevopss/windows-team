@@ -1,0 +1,3 @@
+hello
+this is testing for lab practise
+training devops batch
